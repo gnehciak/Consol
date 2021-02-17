@@ -1055,7 +1055,7 @@ QUADRATICS STUFF
         }
 
 
-
+        //new
         //Tic Tac Toe
         public static char n = ' ';
         public static char x = 'X';
